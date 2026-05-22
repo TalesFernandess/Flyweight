@@ -21,7 +21,6 @@ public class Main {
 
         System.out.println("2. Teste com o padrão Flyweight:");
         
-        // Limpamos o array pesado para liberar espaço na RAM
         florestaPesada = null; 
         limparMemoria();
         
